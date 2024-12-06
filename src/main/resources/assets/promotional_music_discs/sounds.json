@@ -1,0 +1,26 @@
+{
+  "music_disc.minecraft_live_2022": {
+    "sounds": [
+      {
+        "name": "promotional_music_discs:minecraft_live_2022",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.infinite_spooky_amethyst": {
+    "sounds": [
+      {
+        "name": "promotional_music_discs:infinite_spooky_amethyst",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.creakstep": {
+    "sounds": [
+      {
+        "name": "promotional_music_discs:creakstep",
+        "stream": true
+      }
+    ]
+  }
+}

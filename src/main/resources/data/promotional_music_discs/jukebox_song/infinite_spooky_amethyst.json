@@ -1,0 +1,8 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "item.promotional_music_discs.music_disc_infinite_spooky_amethyst.desc"
+  },
+  "length_in_seconds": 292.0,
+  "sound_event": "promotional_music_discs:music_disc.infinite_spooky_amethyst"
+}

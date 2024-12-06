@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/template_music_disc",
+  "textures": {
+    "layer0": "promotional_music_discs:item/music_disc_creakstep"
+  }
+}
